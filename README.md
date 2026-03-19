@@ -13,7 +13,7 @@ I am a **First-Year Computer Science Student** at **MIT Academy of Engineering (
 - 🎓 **Education:** B.Tech in Computer Science (FY) @ MITAOE.
 - 🔭 **Current Focus:** Masterng **React** for scalable web apps and consistently solving problems on **LeetCode**.
 - 🛠️ **Building:** Interactive frontends and exploring system-level programming with C++.
-- ⚡ **Interests:** Digital logic, system automation, and high-fidelity audio (IEMs).
+- ⚡ **Interests:** Digital logic, system automation.
 
 ---
 
