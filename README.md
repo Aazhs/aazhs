@@ -11,7 +11,8 @@
 I am a **First-Year Computer Science Student** at **MIT Academy of Engineering (MITAOE)**, Pune. I enjoy building everything from low-level C++ games to interactive web applications and automation scripts.
 
 - 🎓 **Education:** B.Tech in Computer Science (FY) @ MITAOE.
-- 🔭 **Current Focus:** Scaling **Technodium-2026** and refining my **C++ game development** skills.
+- 🔭 **Current Focus:** Masterng **React** for scalable web apps and consistently solving problems on **LeetCode**.
+- 🛠️ **Building:** Interactive frontends and exploring system-level programming with C++.
 - ⚡ **Interests:** Digital logic, system automation, and high-fidelity audio (IEMs).
 
 ---
