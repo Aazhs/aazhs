@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:45A1FF&height=200&section=header&text=Aarsh Joshi&fontSize=90&fontColor=45A1FF&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Builder%20%7C%20Tinkerer&descAlignY=60&descSize=20&descColor=8b949e" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:45A1FF&height=200&section=header&text=Aarsh-Joshi&fontSize=90&fontColor=45A1FF&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Builder%20%7C%20Tinkerer&descAlignY=60&descSize=20&descColor=8b949e" />
 
 <!-- Typing Animation -->
 <a href="https://github.com/Aazhs">
