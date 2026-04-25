@@ -27,8 +27,8 @@ class Aazh {
 public:
     std::string name     = "Aazh";
     std::string degree   = "B.Tech CS (First Year) @ MITAOE, Pune";
-    std::string focus[]  = { "React & Scalable Web Apps", "LeetCode Grind", "System-level C++" };
-    std::string loves[]  = { "Game Development", "Linux", "Shell Automation", "Digital Logic" };
+    std::string focus[]  = { "React & Scalable Web Apps", "LeetCode + CodeForces Grind", "System-level C++" };
+    std::string loves[]  = { "Linux", "Shell Automation", "Digital Logic" };
     bool        openToCollaborate = true;
 
     std::string getCurrentlyBuilding() {
@@ -64,13 +64,14 @@ public:
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-**Game Dev & Tools**
+**Tools**
 
-![Godot](https://img.shields.io/badge/Godot-%23478cbf.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
-![Raylib](https://img.shields.io/badge/Raylib-white?style=for-the-badge&logo=raylib&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-%23478cbf.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Raylib](https://img.shields.io/badge/Raylib-white?style=for-the-badge&logo=raylib&logoColor=black)
+
 
 </div>
 
