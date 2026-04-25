@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:45A1FF&height=200&section=header&text=Aazh&fontSize=90&fontColor=45A1FF&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Builder%20%7C%20Tinkerer&descAlignY=60&descSize=20&descColor=8b949e" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:45A1FF&height=200&section=header&text=Aarsh Joshi&fontSize=90&fontColor=45A1FF&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Builder%20%7C%20Tinkerer&descAlignY=60&descSize=20&descColor=8b949e" />
 
 <!-- Typing Animation -->
 <a href="https://github.com/Aazhs">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=45A1FF&center=true&vCenter=true&random=false&width=500&lines=FY+CS+Student+%40+MITAOE+%F0%9F%8E%93;C%2B%2B+%7C+Python+%7C+JavaScript+Dev;Linux+%26+Shell+Scripting+Nerd+%F0%9F%90%A7;Always+Building+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=45A1FF&center=true&vCenter=true&random=false&width=500&lines=SY+CS+Student+%40+MITAOE+%F0%9F%8E%93;C%2B%2B+%7C+Python+%7C+JavaScript+Dev;Linux+%26+Shell+Scripting+Nerd+%F0%9F%90%A7;Always+Building+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
