@@ -201,8 +201,7 @@ jobs:
 🔨  Building     →  React-based web apps & exploring TypeScript deeper
 🧩  Solving      →  LeetCode daily (DSA grind is real)
 📖  Learning     →  System design fundamentals + Raylib game architecture
-🎯  Goal 2025    →  Contribute to an open source project & ship something real
-🌙  Vibing to    →  Pixel art sunsets and lo-fi beats
+🎯  Goal 2026    →  Contribute to an open source project & ship something real
 ```
 
 <br/>
