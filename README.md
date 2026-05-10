@@ -107,9 +107,9 @@ public:
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aazhs&show_icons=true&count_private=true&hide_border=true&bg_color=1a1520&title_color=EDD9BA&icon_color=C4909A&text_color=B08BBF" height="175px"/>
+<img src="https://github-readme-stats.shion.dev/api?username=Aazhs&show_icons=true&count_private=true&hide_border=true&bg_color=1a1520&title_color=EDD9BA&icon_color=C4909A&text_color=B08BBF" height="175px"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aazhs&layout=compact&hide_border=true&bg_color=1a1520&title_color=EDD9BA&text_color=B08BBF" height="175px"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Aazhs&layout=compact&hide_border=true&bg_color=1a1520&title_color=EDD9BA&text_color=B08BBF" height="175px"/>
 
 <br/><br/>
 
