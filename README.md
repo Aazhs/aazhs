@@ -17,10 +17,6 @@
 
 </div>
 
-<br/>
-
-<h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXmZsweKCbY/giphy.gif" width="25"> About Me</h2>
-
 <div align="center">
 
 > 💻 **Currently building:** Interactive frontends & low-level game engines
