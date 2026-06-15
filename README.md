@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Styled Header Banner — pixel twilight gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1520,35:3d2a46,65:4A3550,100:1a1520&height=220&text=Aarsh+Joshi&fontSize=72&fontColor=EDD9BA&fontAlignY=45&desc=CS+Student+%7C+Builder+%7C+Tinkerer&descSize=19&descColor=B08BBF&descAlignY=63&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1520,35:3d2a46,65:4A3550,100:1a1520&height=220&text=Aarsh&fontSize=72&fontColor=EDD9BA&fontAlignY=45&desc=CS+Student+%7C+Builder+%7C+Tinkerer&descSize=19&descColor=B08BBF&descAlignY=63&animation=fadeIn" />
 
 <br/>
 
@@ -29,8 +29,7 @@
 ```cpp
 class Aazh {
 public:
-    std::string name     = "Aarsh Joshi";
-    std::string degree   = "B.Tech CS (SY) @ MITAOE, Pune";
+    std::string name     = "Aarsh";
     std::string focus[]  = { "React & Scalable Web Apps",
                              "LeetCode + Codeforces Grind",
                              "System-level C++" };
@@ -46,7 +45,6 @@ public:
 
 <br/>
 
-- 🎓 Pursuing **B.Tech in Computer Science** at MIT Academy of Engineering, Pune
 - 🔭 Currently mastering **React** for scalable frontends & sharpening DSA on **LeetCode**
 - 🎮 Game dev enthusiast — shipped with **Raylib** (C++) and **Godot Engine**
 - 🐧 Linux daily driver | Shell scripting hobbyist
