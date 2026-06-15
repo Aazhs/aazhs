@@ -15,16 +15,7 @@
 [![Location](https://img.shields.io/badge/📍_Pune,_India-1a1520?style=for-the-badge&color=1a1520&labelColor=1a1520)](https://github.com/Aazhs)
 [![Profile Views](https://komarev.com/ghpvc/?username=Aazhs&color=9B7A8F&style=for-the-badge&label=PROFILE+VIEWS&labelColor=1a1520)](https://github.com/Aazhs)
 
-</div>
 
-<div align="center">
-
-> 💻 **Currently building:** Interactive frontends & low-level game engines
-> 🚀 **Currently mastering:** Advanced React, TypeScript, and LeetCode DSA
-> 🐧 **Daily driver:** Linux native & shell scripting hobbyist
-> 🎯 **2026 Goals:** Contribute to open-source & ship a full-stack product
-
-</div>
 
 <br/>
 
