@@ -7,7 +7,7 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/Aazhs">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=B08BBF&center=true&vCenter=true&random=false&width=520&lines=SY+CS+Student+%40+MITAOE+%F0%9F%8E%93;C%2B%2B+%7C+Python+%7C+JavaScript+Dev+%F0%9F%92%BB;Linux+%26+Shell+Scripting+Nerd+%F0%9F%90%A7;Always+Building+Something+New+%F0%9F%9A%80;Pixel+Art+%26+Game+Dev+Enjoyer+%F0%9F%8E%AE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=B08BBF&center=true&vCenter=true&random=false&width=520&lines=SC%2B%2B+%7C+Python+%7C+JavaScript+Dev+%F0%9F%92%BB;Linux+%26+Shell+Scripting+Nerd+%F0%9F%90%A7;Always+Building+Something+New+%F0%9F%9A%80;Pixel+Art+%26+Game+Dev+Enjoyer+%F0%9F%8E%AE" alt="Typing SVG" />
 </a>
 
 <br/><br/>
