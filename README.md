@@ -1,6 +1,6 @@
 <a href="https://aarshj.me"><img src="assets/banner.svg" alt="Aarsh Joshi" width="100%"></a>
 
-I build web products and developer tools, train small vision models that run on-device, and like going low-level with C, ARM64 assembly, and OpenGL.
+I build web apps and developer tools, train ML models, and like going low-level with C, ARM64 assembly, and OpenGL.
 
 **[aarshj.me](https://aarshj.me)**&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/aarsh-joshi-3b40373aa/)&nbsp;&nbsp;&nbsp;[Email](mailto:aarshjozhi@gmail.com)
 
